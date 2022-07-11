@@ -6,7 +6,7 @@
 ### Quick Links
 <div text-align="center"> 
 
-##### [DESCRIPTION](https://github.com/yamilyn/readme-testing/edit/main/README.md#-description) • [DEPLOYMENT](https://github.com/yamilyn/readme-testing/edit/main/README.md#-deployment) • [DEVELOPMENT PROCESS](https://github.com/yamilyn/readme-testing/edit/main/README.md#-development-process) • [CONCEPT IDEA](https://github.com/yamilyn/readme-testing/edit/main/README.md#-concept-idea) • [TECH STACK](https://github.com/yamilyn/readme-testing/edit/main/README.md#-tech-stack) • [FEATURES](https://github.com/yamilyn/readme-testing/edit/main/README.md#-features) • [GETTING STARTED](https://github.com/yamilyn/readme-testing/edit/main/README.md#-getting-started) • [NICE TO HAVE FEATURES](https://github.com/yamilyn/readme-testing/edit/main/README.md#-nice-to-have-future-enhancements) • [TEAM MEMBERS](https://github.com/yamilyn/readme-testing/edit/main/README.md#-team-members) 
+##### [DESCRIPTION](https://github.com/yamilyn/job-tracker-app#-description) • [DEPLOYMENT](https://github.com/yamilyn/job-tracker-app#-deployment) • [DEVELOPMENT PROCESS](https://github.com/yamilyn/job-tracker-app#-development-process) • [CONCEPT IDEA](https://github.com/yamilyn/job-tracker-app#-concept-idea) • [TECH STACK](https://github.com/yamilyn/job-tracker-app#-tech-stack) • [FEATURES](https://github.com/yamilyn/job-tracker-app#-features) • [GETTING STARTED](https://github.com/yamilyn/job-tracker-app#-getting-started) • [NICE TO HAVE FEATURES](https://github.com/yamilyn/job-tracker-app#-nice-to-have-future-enhancements) • [TEAM MEMBERS](https://github.com/yamilyn/job-tracker-app#-team-members) 
 </div>
 
 ***
