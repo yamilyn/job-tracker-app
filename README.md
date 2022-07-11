@@ -32,10 +32,12 @@ As a team we decided to break complex tasks into smaller parts in order to manag
 ![Wireframes](/img/wireframes-job-tracker.jpg)
 * [Wireframes link](https://xd.adobe.com/view/0726cadf-94a8-4acd-8ed7-d2569e52a415-5275/screen/e48daffa-6673-4385-a874-e749c3ad3578?fullscreen)
 
+***
+
 ### 👩‍💻 Tech stack
 - The programming languages in this project are [Python](https://www.python.org/), JavaScript, jQuery, HTML and CSS.
 - This project uses the [Django Project framework](https://www.djangoproject.com/). Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
-    - To create our own modern forms instead of using the inbuilt from Django, we have used a dependency called [widget_tweaks](https://pypi.org/project/django-widget-tweaks/)
+    - To create our own modern forms instead of using the inbuilt from Django, we have used a dependency called [widget_tweaks](https://pypi.org/project/django-widget-tweaks/).
 - For persistent storage (database), the app uses the [Postgresql](https://www.postgresql.org/), a powerful open source object-relational database system that has earned a strong reputation for reliability, feature robustness, and performance.
 - For the styling, the app uses the [MaterializeCSS](https://materializecss.com/) package which is a front-end framework based on Material Design.
 - The app uses the font ["Oleo Script Swash Caps"](https://fonts.google.com/specimen/Oleo+Script+Swash+Caps) as its logo font.
