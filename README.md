@@ -8,17 +8,18 @@
 
 ##### [DESCRIPTION](https://github.com/yamilyn/readme-testing/edit/main/README.md#-description) • [DEPLOYMENT](https://github.com/yamilyn/readme-testing/edit/main/README.md#-deployment) • [DEVELOPMENT PROCESS](https://github.com/yamilyn/readme-testing/edit/main/README.md#-development-process) • [CONCEPT IDEA](https://github.com/yamilyn/readme-testing/edit/main/README.md#-concept-idea) • [TECH STACK](https://github.com/yamilyn/readme-testing/edit/main/README.md#-tech-stack) • [FEATURES](https://github.com/yamilyn/readme-testing/edit/main/README.md#-features) • [GETTING STARTED](https://github.com/yamilyn/readme-testing/edit/main/README.md#-getting-started) • [NICE TO HAVE FEATURES](https://github.com/yamilyn/readme-testing/edit/main/README.md#-nice-to-have-future-enhancements) • [TEAM MEMBERS](https://github.com/yamilyn/readme-testing/edit/main/README.md#-team-members) 
 </div>
+
 ***
 
-## 📝 Description
+### 📝 Description
 A powerful Job Application Tracking App for both Junior Graduate and Senior Software Engineers. Now it's super easy to manage jobs, collect job application requirements right from the convenience of your browser. Job Tracker increases productivity, improves time sheet accuracy, and saves you an endless amount of time and effort. 
 
-## 🚀 Deployment
+### 🚀 Deployment
 See the working app [here](https://jobtrackersei64.herokuapp.com/)
 
 ***
 
-## 🌟 Development process
+### 🌟 Development process
 This was a team project (3 people) built in 4 days. My responsibility included building the model, views and templates (MVT design pattern) for the Jobs, also integrating with other many-to-many requirements, I also contributed to the front-end by adding styling, extra responsive features and fixing minor bugs.
 <br>
 <br>
@@ -26,12 +27,12 @@ As a team we decided to break complex tasks into smaller parts in order to manag
 
 ***
 
-## 🤔 Concept Idea
+### 🤔 Concept Idea
 
 ![Wireframes](/img/wireframes-job-tracker.jpg)
 * [Wireframes link](https://xd.adobe.com/view/0726cadf-94a8-4acd-8ed7-d2569e52a415-5275/screen/e48daffa-6673-4385-a874-e749c3ad3578?fullscreen)
 
-## 👩‍💻 Tech stack
+### 👩‍💻 Tech stack
 - The programming languages in this project are [Python](https://www.python.org/), JavaScript, jQuery, HTML and CSS.
 - This project uses the [Django Project framework](https://www.djangoproject.com/). Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
     - To create our own modern forms instead of using the inbuilt from Django, we have used a dependency called [widget_tweaks](https://pypi.org/project/django-widget-tweaks/)
@@ -53,7 +54,7 @@ As a team we decided to break complex tasks into smaller parts in order to manag
 
 ***
 
-## 🔍 Features:
+### 🔎 Features:
 * Authentication and authorization;
 * Display messages for signup, signin and update profile;
 * Add, edit and delete a job;
@@ -69,17 +70,17 @@ As a team we decided to break complex tasks into smaller parts in order to manag
 
 ***
 
-## 📍 Getting Started
+### 📍 Getting Started
 * Sign up [here](https://jobtrackersei64.herokuapp.com/accounts/signup/).
 * Your password must be 6 characters long, with an uppercase and one number, example: `Pass123`.
 * Then, explore the app and enjoy the features!
-![AddAJob](/main_app/static/img/add-a-job-page.jpg)
-![IndexPage](/main_app/static/img/index-page.jpg)
-![JobDetailPage](/main_app/static/img/job-detail-page.jpg)
+![AddAJob](/img/add-a-job-page.jpg)
+![IndexPage](/img/index-page.jpg)
+![JobDetailPage](/img/job-detail-page.jpg)
 
 ***
 
-## 💡 Nice to have future enhancements:
+### 💡 Nice to have future enhancements:
 - Use API to upload a job automatically
 - Use webscraping to find and pull jobs from job sites
 - Add password reset by email
@@ -91,14 +92,14 @@ As a team we decided to break complex tasks into smaller parts in order to manag
 
 ***
 
-## 👋 Team members
+### 👋 Team members
 * Yamily Benigni - [Linkedin](https://www.linkedin.com/in/yamilybenigni/)
 * Ailish McLaughlin - [Linkedin](https://www.linkedin.com/in/ailish-mclaughlin/)
 * Bedros Asdorian - [Linkedin](https://www.linkedin.com/in/bedros-asdorian-7ba548188/)
 
 ***
 
-## 💜 Quote
+### 💜 Quote
 *"Just one small positive thought in the morning can change your whole day."* - Dalai Lama
 
 ***
