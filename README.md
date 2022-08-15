@@ -54,7 +54,7 @@ See the working app [here](https://jobtrackersei64.herokuapp.com/)
 - This project uses the [Django Project framework](https://www.djangoproject.com/). Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
     - To create our own modern forms instead of using the inbuilt from Django, we have used a dependency called [widget_tweaks](https://pypi.org/project/django-widget-tweaks/).
     - When a user `signup`, a profile is automatically created, then the user is able to upload and change their profile photo, for this we have used a dependency called [Pillow](https://pypi.org/project/Pillow/).
-- For persistent storage (database), the app uses [Postgresql](https://www.postgresql.org/), a powerful open source object-relational database system that has earned a strong reputation for reliability, feature robustness, and performance.
+- For persistent storage (database), the app uses [PostgreSQL](https://www.postgresql.org/), a powerful open source object-relational database system that has earned a strong reputation for reliability, feature robustness, and performance.
 - For the styling, the app uses the [MaterializeCSS](https://materializecss.com/) package which is a front-end framework based on Material Design.
 - The app uses the font ["Oleo Script Swash Caps"](https://fonts.google.com/specimen/Oleo+Script+Swash+Caps) as its logo font.
 #####
@@ -79,35 +79,13 @@ This was a team project (3 people) built in 4 days. My responsibility included b
 As a team we decided to break complex tasks into smaller parts in order to manage our time. We also started each day with a sprint stand-up following the Agile project principles.
 
 #### Tasks 
-- MVT design pattern for Jobs
-- MVT design pattern for requirements
+- MVT components for Jobs
+- MVT components for requirements
 - MVT for profile
 - Authentication using Django contrib
 - Front end scripts (JS, jQuery)
 - Front end styling (HTML, CSS)
 
-#### Communication with team
-The app was built remotely and the communication happened through **Zoom**, **Slack**, **Trello**, **shared spreadsheet**.
-
-***
-
-### 💎 My key learnings & challenges
-
-The development was entirely remote and it is always a big experience for me and something that taught me just how flexible and resilient I can be.
-<br>
-<br>
-My goal in this project was to identify best practices in order to have very productive days and successful remote working.
-<br>
-<br>
-As a team, we quickly figure out how to start each day with a sprint stand-up and merging each other's codes in order to resolve any conflicts. We also had a shared worksheet to see and always remember the division of tasks.
-<br>
-<br>
-On the day of the delivery (day 4), we were more organised and productive as we had already most features ready for deployment.
-<br>
-<br>
-This only shows how much I could learn if I really throw myself into new challenges.
-<br>
-<br>
 I started this project developing the `Job` data model and related features, here is a brief examples of my coding:
 
 ```jsx
@@ -198,6 +176,32 @@ class JobDelete(LoginRequiredMixin, DeleteView):
     success_url = '/jobs/'
 ```
 
+
+#### Communication with team
+The app was built remotely and the communication happened through **Zoom**, **Slack**, **Trello**, and a **shared spreadsheet**.
+<br>
+<br>
+For version control, we have used **GitHub** for enterprises.
+
+***
+
+### 💎 My key learnings & challenges
+
+The development was entirely remote and it is always a big experience for me and something that taught me just how flexible and resilient I can be.
+<br>
+<br>
+My goal in this project was to identify best practices in order to have very productive days and successful remote working.
+<br>
+<br>
+As a team, we quickly figure out how to start each day with a sprint stand-up and merging each other's codes in order to resolve any conflicts. We also had a shared worksheet to see and always remember the division of tasks.
+<br>
+<br>
+On the day of the delivery (day 4), we were more organised and productive as we had already most features ready for deployment.
+<br>
+<br>
+This only shows how much I could learn if I really throw myself into new challenges.
+<br>
+<br>
 
 ***
 
